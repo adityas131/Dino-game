@@ -16,7 +16,7 @@ body {
     width: 44px;
     height: 47px;
     /* Image from: https://github.com/wayou/t-rex-runner */
-    background-image: url('https://i.imgur.com/b1Y3J2c.png');
+    background-image: url('dino.png');
     background-size: contain;
     background-repeat: no-repeat;
     position: absolute;
@@ -28,7 +28,7 @@ body {
     width: 24px;
     height: 50px;
      /* Image from: https://github.com/wayou/t-rex-runner */
-    background-image: url('https://i.imgur.com/x4Ea5Jk.png');
+    background-image: url('cactus.png');
     background-size: contain;
     background-repeat: no-repeat;
     position: absolute;
@@ -52,3 +52,4 @@ body {
     70% { bottom: 80px; }
     100% { bottom: 0; }
   }
+
